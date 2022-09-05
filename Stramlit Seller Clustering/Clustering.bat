@@ -1,0 +1,1 @@
+streamlit run "D:\Projects\Streamlit\Seller Clustering\app.py" --server.port 8501
